@@ -7,7 +7,7 @@ function M.setup(filetypes)
 
     function Source.get_metadata()
         local metadata = {
-            menu = '[omni]',
+            menu = '[Omni]',
             priority = 100,
         }
         if filetypes then
