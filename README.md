@@ -1,5 +1,8 @@
 # omni-compe
 
+| :exclamation: This was upstreamed in 15ea260 |
+|----------------------------------------------|
+
 ## Usage
 
 
