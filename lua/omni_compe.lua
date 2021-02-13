@@ -1,6 +1,7 @@
 local M = {}
 
 function M.setup(filetypes)
+    vim.cmd [[ echohl ErrorMsg | echom 'omni-compe is now deprecated and part of nvim-compe' ]]
     local compe = require('compe')
 
     local Source = {}
